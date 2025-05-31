@@ -48,5 +48,5 @@ GOOGLE_API_KEY = "YOUR_API_KEY"
 ### 🔧 Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/secure-scan-pro.git
+git clone https://github.com/PEXKIDDY/secure-scan-pro.git
 cd secure-scan-pro
