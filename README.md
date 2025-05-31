@@ -50,3 +50,13 @@ GOOGLE_API_KEY = "YOUR_API_KEY"
 ```bash
 git clone https://github.com/PEXKIDDY/secure-scan-pro.git
 cd secure-scan-pro
+
+## SCREEN SHOTS
+![image](https://github.com/user-attachments/assets/7ebf817c-2c25-475b-b37b-30a0f46aa7c9)
+
+![image](https://github.com/user-attachments/assets/137a89ad-a090-4b17-af3a-5c30661d2dc7)
+
+![image](https://github.com/user-attachments/assets/8aef0252-1d26-4423-9d56-262faa65e0ba)
+
+
+
