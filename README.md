@@ -45,6 +45,11 @@ Generate an API key.
 Add this key to your code:
 GOOGLE_API_KEY = "YOUR_API_KEY"
 
+## Screenshots  
+
+![Screenshot 2025-05-31 234908](https://github.com/user-attachments/assets/d601cf6d-2144-4d02-9f83-17aecb3d8236)
+![Screenshot 2025-05-31 234610](https://github.com/user-attachments/assets/df019323-dd02-49be-8f04-f026a416c31d)
+![Screenshot 2025-05-31 234942](https://github.com/user-attachments/assets/ed1d22c0-e389-404f-b8f3-312d06f0687a)
 
 ### 🔧 Clone the Repository
 
